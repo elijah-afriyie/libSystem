@@ -1,0 +1,312 @@
+{
+  "Programming": [
+    {
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "isbn": "978-0134685991",
+      "quantity": 10
+    },
+    {
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "isbn": "978-0132350884",
+      "quantity": 8
+    },
+    {
+      "title": "Head First Java",
+      "author": "Kathy Sierra, Bert Bates",
+      "isbn": "978-0596009205",
+      "quantity": 7
+    },
+    {
+      "title": "Java: The Complete Reference",
+      "author": "Herbert Schildt",
+      "isbn": "978-1260440232",
+      "quantity": 12
+    },
+    {
+      "title": "The Pragmatic Programmer: Your Journey to Mastery",
+      "author": "Andrew Hunt, David Thomas",
+      "isbn": "978-0135957059",
+      "quantity": 10
+    },
+    {
+      "title": "Java Concurrency in Practice",
+      "author": "Brian Goetz",
+      "isbn": "978-0321349606",
+      "quantity": 5
+    },
+    {
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "author": "Martin Fowler",
+      "isbn": "978-0201485677",
+      "quantity": 4
+    },
+    {
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "isbn": "978-0201633610",
+      "quantity": 5
+    },
+    {
+      "title": "Java Performance: The Definitive Guide",
+      "author": "Scott Oaks",
+      "isbn": "978-1449358457",
+      "quantity": 6
+    },
+    {
+      "title": "Spring in Action",
+      "author": "Craig Walls",
+      "isbn": "978-1617294945",
+      "quantity": 11
+    }
+  ],
+  "Software Engineering": [
+    {
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "isbn": "978-0201633610",
+      "quantity": 5
+    },
+    {
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "author": "Martin Fowler",
+      "isbn": "978-0201485677",
+      "quantity": 4
+    },
+    {
+      "title": "Java Concurrency in Practice",
+      "author": "Brian Goetz",
+      "isbn": "978-0321349606",
+      "quantity": 5
+    },
+    {
+      "title": "The Mythical Man-Month: Essays on Software Engineering",
+      "author": "Frederick P. Brooks Jr.",
+      "isbn": "978-0201835953",
+      "quantity": 9
+    },
+    {
+      "title": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+      "author": "Robert C. Martin",
+      "isbn": "978-0134494166",
+      "quantity": 7
+    },
+    {
+      "title": "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation",
+      "author": "Jez Humble, David Farley",
+      "isbn": "978-0321601919",
+      "quantity": 3
+    },
+    {
+      "title": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+      "author": "Eric Evans",
+      "isbn": "978-0321125217",
+      "quantity": 6
+    },
+    {
+      "title": "The Clean Coder: A Code of Conduct for Professional Programmers",
+      "author": "Robert C. Martin",
+      "isbn": "978-0137081073",
+      "quantity": 8
+    },
+    {
+      "title": "Agile Estimating and Planning",
+      "author": "Mike Cohn",
+      "isbn": "978-0131479418",
+      "quantity": 4
+    },
+    {
+      "title": "User Stories Applied: For Agile Software Development",
+      "author": "Mike Cohn",
+      "isbn": "978-0321205681",
+      "quantity": 5
+    }
+  ],
+  "Algorithms and Data Structures": [
+    {
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "isbn": "978-0262033848",
+      "quantity": 9
+    },
+    {
+      "title": "Algorithms",
+      "author": "Robert Sedgewick, Kevin Wayne",
+      "isbn": "978-0321573513",
+      "quantity": 7
+    },
+    {
+      "title": "The Art of Computer Programming, Volumes 1-4",
+      "author": "Donald E. Knuth",
+      "isbn": "978-0321751041",
+      "quantity": 6
+    },
+    {
+      "title": "Data Structures and Algorithms in Java",
+      "author": "Robert Lafore",
+      "isbn": "978-0672324536",
+      "quantity": 10
+    },
+    {
+      "title": "Grokking Algorithms",
+      "author": "Aditya Bhargava",
+      "isbn": "978-1617292231",
+      "quantity": 8
+    },
+    {
+      "title": "Algorithms Unlocked",
+      "author": "Thomas H. Cormen",
+      "isbn": "978-0262518802",
+      "quantity": 5
+    },
+    {
+      "title": "Data Structures and Algorithm Analysis in Java",
+      "author": "Mark Allen Weiss",
+      "isbn": "978-0132576277",
+      "quantity": 4
+    },
+    {
+      "title": "Cracking the Coding Interview",
+      "author": "Gayle Laakmann McDowell",
+      "isbn": "978-0984782857",
+      "quantity": 12
+    },
+    {
+      "title": "Algorithms to Live By: The Computer Science of Human Decisions",
+      "author": "Brian Christian, Tom Griffiths",
+      "isbn": "978-1627790369",
+      "quantity": 7
+    },
+    {
+      "title": "Problem Solving with Algorithms and Data Structures Using Python",
+      "author": "Bradley N. Miller, David L. Ranum",
+      "isbn": "978-1590282571",
+      "quantity": 3
+    }
+  ],
+  "Computer Networks": [
+    {
+      "title": "Computer Networking: A Top-Down Approach",
+      "author": "James Kurose, Keith Ross",
+      "isbn": "978-0133594140",
+      "quantity": 8
+    },
+    {
+      "title": "Computer Networks",
+      "author": "Andrew S. Tanenbaum, David J. Wetherall",
+      "isbn": "978-0132126953",
+      "quantity": 7
+    },
+    {
+      "title": "Data Communications and Networking",
+      "author": "Behrouz A. Forouzan",
+      "isbn": "978-0073376226",
+      "quantity": 6
+    },
+    {
+      "title": "Network Warrior",
+      "author": "Gary A. Donahue",
+      "isbn": "978-1449387864",
+      "quantity": 5
+    },
+    {
+      "title": "TCP/IP Illustrated, Volume 1: The Protocols",
+      "author": "W. Richard Stevens",
+      "isbn": "978-0201633467",
+      "quantity": 4
+    },
+    {
+      "title": "Computer Networking: Principles, Protocols and Practice",
+      "author": "Olivier Bonaventure",
+      "isbn": "978-1365185835",
+      "quantity": 3
+    },
+    {
+      "title": "Internetworking with TCP/IP Volume One",
+      "author": "Douglas E. Comer",
+      "isbn": "978-0136085300",
+      "quantity": 9
+    },
+    {
+      "title": "High-Performance Browser Networking",
+      "author": "Ilya Grigorik",
+      "isbn": "978-1449344768",
+      "quantity": 4
+    },
+    {
+      "title": "The Illustrated Network: How TCP/IP Works in a Modern Network",
+      "author": "Walter Goralski",
+      "isbn": "978-0128008879",
+      "quantity": 7
+    },
+    {
+      "title": "Networking All-in-One For Dummies",
+      "author": "Doug Lowe",
+      "isbn": "978-1119471608",
+      "quantity": 10
+    }
+  ],
+  "Databases": [
+    {
+      "title": "Database System Concepts",
+      "author": "Abraham Silberschatz, Henry Korth, S. Sudarshan",
+      "isbn": "978-0078022159",
+      "quantity": 8
+    },
+    {
+      "title": "SQL in 10 Minutes, Sams Teach Yourself",
+      "author": "Ben Forta",
+      "isbn": "978-0672336075",
+      "quantity": 7
+    },
+    {
+      "title": "Learning SQL",
+      "author": "Alan Beaulieu",
+      "isbn": "978-0596520830",
+      "quantity": 6
+    },
+    {
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann",
+      "isbn": "978-1449373325",
+      "quantity": 5
+    },
+    {
+      "title": "Database Management Systems",
+      "author": "Raghu Ramakrishnan, Johannes Gehrke",
+      "isbn": "978-0072465631",
+      "quantity": 4
+    },
+    {
+      "title": "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence",
+      "author": "Pramod J. Sadalage, Martin Fowler",
+      "isbn": "978-0321826626",
+      "quantity": 3
+    },
+    {
+      "title": "MySQL Cookbook",
+      "author": "Paul DuBois",
+      "isbn": "978-0596001452",
+      "quantity": 6
+    },
+    {
+      "title": "The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling",
+      "author": "Ralph Kimball, Margy Ross",
+      "isbn": "978-1118530801",
+      "quantity": 7
+    },
+    {
+      "title": "PostgreSQL: Up and Running",
+      "author": "Regina Obe, Leo Hsu",
+      "isbn": "978-1491963417",
+      "quantity": 5
+    },
+    {
+      "title": "Understanding SQL and NoSQL Databases",
+      "author": "Vishal R. Gupta",
+      "isbn": "978-0367338660",
+      "quantity": 4
+    }
+  ]
+}
